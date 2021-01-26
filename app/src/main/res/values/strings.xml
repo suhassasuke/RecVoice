@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecVoice</string>
+    <string name="initialTime">00:00:00</string>
+</resources>
